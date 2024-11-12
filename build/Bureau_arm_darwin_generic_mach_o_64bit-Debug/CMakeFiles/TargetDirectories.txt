@@ -1,0 +1,7 @@
+/Users/assiamegnounif/PROJET_c++/TP2/jeu_de_vie/build/Bureau_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/jeu_de_vie.dir
+/Users/assiamegnounif/PROJET_c++/TP2/jeu_de_vie/build/Bureau_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/edit_cache.dir
+/Users/assiamegnounif/PROJET_c++/TP2/jeu_de_vie/build/Bureau_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/Users/assiamegnounif/PROJET_c++/TP2/jeu_de_vie/build/Bureau_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/list_install_components.dir
+/Users/assiamegnounif/PROJET_c++/TP2/jeu_de_vie/build/Bureau_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/install.dir
+/Users/assiamegnounif/PROJET_c++/TP2/jeu_de_vie/build/Bureau_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/install/local.dir
+/Users/assiamegnounif/PROJET_c++/TP2/jeu_de_vie/build/Bureau_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/install/strip.dir
